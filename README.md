@@ -28,8 +28,8 @@
         </ul>
       </td>
       <td valign="top">
-        <p align="left"><img alt="Coding" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="250" height="auto" /></p><br><br>
-        <p align="left"><img alt="tryhackme"src="https://tryhackme-badges.s3.amazonaws.com/shoaibbshaikhh.png" alt="Your Image Badge" /></p>
+        <p align="center"><img alt="Coding" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="250" height="auto" /></p><br><br>
+        <p align="center"><img alt="tryhackme"src="https://tryhackme-badges.s3.amazonaws.com/shoaibbshaikhh.png" alt="Your Image Badge" /></p>
       </td>
     </tr>
   </table>
