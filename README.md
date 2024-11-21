@@ -24,12 +24,12 @@
         <ul>
           <li>Bug Hunting on <a href="https://hackerone.com/shoaibbshaikhh">HackerOne</a> 🙃</li>
           <li>Bug Hunting on <a href="https://bugcrowd.com/shoaibbshaikhh">BugCrowd</a> 🙃</li>
-          <li>Sharing updates on <a href="https://www.linkedin.com/in/shoaibb-shaikhh/">LinkedIn</a> 😇</li><br>
-          <p align="left"><img src="https://tryhackme-badges.s3.amazonaws.com/shoaibbshaikhh.png" alt="Your Image Badge" /></p>
+          <li>Sharing updates on <a href="https://www.linkedin.com/in/shoaibb-shaikhh/">LinkedIn</a> 😇</li>
         </ul>
       </td>
       <td valign="top">
-        <img alt="Coding" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="250" height="auto" />
+        <img alt="Coding" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="250" height="auto" /><br>
+        <p align="left"><img src="https://tryhackme-badges.s3.amazonaws.com/shoaibbshaikhh.png" alt="Your Image Badge" /></p>
       </td>
     </tr>
   </table>
