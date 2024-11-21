@@ -40,6 +40,7 @@
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
 
+<img src="https://raw.githubusercontent.com/shoaibbshaikhh/shoaibbshaikhh/master/kyubey.gif" height="40" />
 
 ----
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=shoaibbshaikhh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="shoaibbshaikhh" /></p>
