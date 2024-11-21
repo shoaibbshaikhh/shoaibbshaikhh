@@ -23,7 +23,7 @@
         <h3>🌎 Find me around the web</h3>
         <ul>
           <li>Bug Hunting on <a href="https://hackerone.com/shoaibbshaikhh">HackerOne</a> 🙃</li>
-          <li>Bug Hunting on <a href="https://bugcrowd.com/p/shoaibbshaikhh">BugCrowd</a> 🙃</li>
+          <li>Bug Hunting on <a href="https://bugcrowd.com/shoaibbshaikhh">BugCrowd</a> 🙃</li>
           <li>Sharing updates on <a href="https://www.linkedin.com/in/shoaibb-shaikhh/">LinkedIn</a> 😇</li>
         </ul>
       </td>
