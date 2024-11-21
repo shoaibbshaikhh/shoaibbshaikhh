@@ -25,6 +25,7 @@
           <li>Bug Hunting on <a href="https://hackerone.com/shoaibbshaikhh">HackerOne</a> 🙃</li>
           <li>Bug Hunting on <a href="https://bugcrowd.com/shoaibbshaikhh">BugCrowd</a> 🙃</li>
           <li>Sharing updates on <a href="https://www.linkedin.com/in/shoaibb-shaikhh/">LinkedIn</a> 😇</li>
+          <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/shoaibbshaikhh.png" alt="Your Image Badge" /></p>
         </ul>
       </td>
       <td valign="top">
@@ -40,6 +41,5 @@
 
 
 ----
-<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/shoaibbshaikhh.png" alt="Your Image Badge" /></p>
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=shoaibbshaikhh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="shoaibbshaikhh" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibbshaikhh&layout=compact&theme=radical&hide_border=true" alt="shoaibbshaikhh" /></p>
