@@ -28,7 +28,7 @@
         </ul>
       </td>
       <td valign="top">
-        <img alt="Coding" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="250" height="auto" /><br>
+        <img alt="Coding" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="250" height="auto" /><br><br><br>
         <p align="left"><img src="https://tryhackme-badges.s3.amazonaws.com/shoaibbshaikhh.png" alt="Your Image Badge" /></p>
       </td>
     </tr>
