@@ -39,6 +39,7 @@
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
 
 
-----  
+----
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3343088" style='border:none;'></iframe>
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=shoaibbshaikhh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="shoaibbshaikhh" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibbshaikhh&layout=compact&theme=radical&hide_border=true" alt="shoaibbshaikhh" /></p>
