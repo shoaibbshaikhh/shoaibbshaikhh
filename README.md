@@ -30,8 +30,7 @@
       <td valign="top">
         <p align="center"><img alt="Coding" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="250" height="auto" /></p><br>
         <h3 align="center">TryHackMe Profile:</h3>
-        <p align="center"><img alt="tryhackme"src="https://tryhackme-badges.s3.amazonaws.com/shoaibbshaikhh.png" alt="Your Image Badge" /></p><br>
-        <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3343088" style='border:none;' />
+        <p align="center"><img alt="TryHackMe Profile Badge"src="https://tryhackme-badges.s3.amazonaws.com/shoaibbshaikhh.png" /></p><br>
       </td>
     </tr>
   </table>
