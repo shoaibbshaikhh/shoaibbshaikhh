@@ -30,7 +30,7 @@
       <td valign="top">
         <p align="center"><img alt="Coding" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="250" height="auto" /></p><br>
         <h3 align="center">TryHackMe Profile:</h3>
-        <p align="center"><img alt="TryHackMe Profile Badge"src="https://tryhackme-badges.s3.amazonaws.com/shoaibbshaikhh.png" /></p><br>
+        <p align="center"><a href="https://tryhackme.com/r/p/shoaibbshaikhh"><img alt="TryHackMe Profile Badge"src="https://tryhackme-badges.s3.amazonaws.com/shoaibbshaikhh.png" /></a></p><br>
       </td>
     </tr>
   </table>
