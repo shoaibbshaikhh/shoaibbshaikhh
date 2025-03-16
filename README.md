@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/shoaibbshaikhh?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=shoaibbshaikhh&color=brightgreen">
 
-![https://i.postimg.cc/xj31N3pj/1.png](https://media.licdn.com/dms/image/v2/D4D16AQH1-OHyg1a2_Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732238695971?e=1737590400&v=beta&t=lauzG-yvtQXi-MQrFbrO7_nVjvnL6T4oTFtCB_YdFqc)
+![logo](https://github.com/shoaibbshaikhh/shoaibbshaikhh/raw/main/logo.png)
 
 ---
 <div style="display: flex; align-items: center; justify-content: space-between;">
@@ -16,8 +16,8 @@
         <h3>🧑🏻‍🎓 About me</h3>
         <ul>
           <li>👯 I’m looking to collaborate on <strong>Cyber Security Projects</strong></li>
-          <li>👨‍💻 All of my projects are available at <a href="https://shoaibbshaikhh.github.io">shoaibbshaikhh.github.io</a></li>
-          <li>📝 I regularly write articles on <a href="https://shoaibbshaikhh.blogspot.com">shoaibbshaikhh.blogspot.com</a></li>
+          <li>👨‍💻 All of my projects are available at <a href="https://shoaibbshaikhh.netlify.app/">shoaibbshaikhh.netlify.app</a></li>
+          <li>📝 I regularly write articles on <a href="https://shoaibbshaikhh.medium.com/">shoaibbshaikhh.medium.com</a></li>
           <li>💬 Ask me about <strong>Cyber Security, Ethical Hacking, Bug Hunting</strong></li>
           <li>📫 How to reach me: <a href="mailto:shaikhshoaib2k21@gmail.com">shaikhshoaib2k21@gmail.com</a></li>
           <li>⚡ Fun fact: I think I am funny</li>
