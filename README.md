@@ -16,10 +16,10 @@
         <h3>🧑🏻‍🎓 About me</h3>
         <ul>
           <li>👯 I’m looking to collaborate on <strong>Cyber Security Projects</strong></li>
-          <li>👨‍💻 All of my projects are available at <a href="https://tr.ee/shoaib/">tr.ee/shoaib</a></li>
-          <li>📝 I regularly write articles on <a href="https://tr.ee/sblog/">tr.ee/sblog</a></li>
+          <li>👨‍💻 All of my projects are available at <a href="https://tr.ee/shoaib">tr.ee/shoaib</a></li>
+          <li>📝 I regularly write articles on <a href="https://tr.ee/sblog">tr.ee/sblog</a></li>
           <li>💬 Ask me about <strong>Cyber Security, Ethical Hacking, Bug Hunting</strong></li>
-          <li>📫 How to reach me: <a href="https://tr.ee/shoaibgmail/">shaikhshoaib2k21@gmail.com</a></li>
+          <li>📫 How to reach me: <a href="https://tr.ee/shoaibgmail">shaikhshoaib2k21@gmail.com</a></li>
           <li>⚡ Fun fact: I think I am funny</li>
         </ul>
         <h3>🌎 Find me around the web</h3>
